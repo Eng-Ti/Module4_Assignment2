@@ -1,0 +1,20 @@
+div {
+    background-color: white;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.first {
+    color: green; font-size: 14px;
+}
+
+.second {
+    color: red; font-size: 14px;
+}
+
+.third {
+    color: blue; font-size: 14px;
+}
+
